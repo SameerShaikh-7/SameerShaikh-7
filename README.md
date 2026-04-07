@@ -64,24 +64,11 @@ A premium weather application that turns complex data into a clean user experien
 
 ### 📊 Development Insights
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SameerShaikh-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerShaikh-7&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShaikh-7&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SameerShaikh-7/SameerShaikh-7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 ### ✨ Motivation
 
