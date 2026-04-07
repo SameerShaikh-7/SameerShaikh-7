@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hi 👋 I'm Sameer Shaikh</h2>
-<p align="center">🎓 BCA Student | 🚀 Future Full Stack Developer</p>
+<p align="center">🎓 BCA Student | 🚀 Full Stack Developer</p>
 
 <p align="center">
   <a href="https://github.com/SameerShaikh-7">
