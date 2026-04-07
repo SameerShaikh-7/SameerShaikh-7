@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sameer%20Shaikh&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
+<h2 align="center">Hi 👋 I'm Sameer Shaikh</h2>
+<p align="center">🎓 BCA Student | 🚀 Future Full Stack Developer</p>
 
 <p align="center">
   <a href="https://github.com/SameerShaikh-7">
@@ -14,18 +17,18 @@
 
 ---
 
-### **🚀 About Me**
+### 🚀 About Me
 
 A creative developer focused on turning lines of code into high-performance, aesthetic web applications. Currently navigating the world of **BCA**, I spend my time mastering the modern web stack and refining the art of pixel-perfect design.
 
-- 🌱 Currently diving deep into the **MERN Stack**.
-- 🛠️ Building projects that combine **clean logic** with **premium UI**.
-- 📈 Driven by **growth**, **consistency**, and the thrill of solving complex problems.
-- ⚡ Fun fact: I believe a good mullet fade is as important as clean code architecture.
+- 🌱 Currently diving deep into the **MERN Stack**
+- 🛠️ Building projects with **clean logic + premium UI**
+- 📈 Focused on **growth, consistency, and improvement**
+- ⚡ Love creating **unique & modern web experiences**
 
 ---
 
-### **🛠️ Technical Arsenal**
+### 🛠️ Technical Arsenal
 
 <p align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,19 +49,20 @@ A creative developer focused on turning lines of code into high-performance, aes
 
 ---
 
-### **💎 Featured Project**
+### 💎 Featured Project
 
-#### **☁️ SkyCast | Real-Time Weather Engine**
-*A premium weather application that turns complex meteorological data into a stunning user experience.*
+#### ☁️ SkyCast | Real-Time Weather Engine
 
-- **Real-Time Accuracy:** Powered by OpenWeather API for instant global updates.
-- **Dynamic UI:** Interface adapts based on city-specific weather conditions.
-- **Tech Stack:** React.js, Tailwind CSS, and REST APIs.
-- **Focus:** Optimized for speed, responsiveness, and a professional glassmorphic design.
+A premium weather application that turns complex data into a clean user experience.
+
+- 🌍 Live weather using API
+- 🔍 Search any city for real-time updates
+- ⚡ Fast, responsive & dynamic UI
+- 🛠️ Built with React.js, Tailwind CSS
 
 ---
 
-### **📊 Development Insights**
+### 📊 Development Insights
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SameerShaikh-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -67,7 +71,7 @@ A creative developer focused on turning lines of code into high-performance, aes
 
 ---
 
-### **🐍 Contribution Activity**
+### 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShaikh-7&layout=compact&theme=tokyonight&hide_border=true" width="400" />
@@ -79,15 +83,17 @@ A creative developer focused on turning lines of code into high-performance, aes
 
 ---
 
-### **✨ Motivation**
-> "Software development isn't just about writing code; it’s about crafting solutions that don't yet exist. Stay hungry, stay consistent, and let your work speak for itself."
+### ✨ Motivation
+
+> "Code. Learn. Build. Repeat. 🚀"
 
 ---
 
-### **📫 Connect with me**
+### 📫 Connect with me
+
 <p align="left">
-<a href="https://github.com/SameerShaikh-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SameerShaikh-7" height="30" width="40" /></a>
-<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sameer" height="30" width="40" /></a>
+<a href="https://github.com/SameerShaikh-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
+<a href="mailto:shaikh.sameer.76220@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" height="30" width="40" /></a>
 </p>
 
 <p align="center">
