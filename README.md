@@ -1,67 +1,95 @@
-# 👋 Hi, I'm Sameer Shaikh  
-### **Aspiring Full Stack Developer | Building the Future of Web**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sameer%20Shaikh&fontSize=80&animation=fadeIn&fontAlignY=35&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/SameerShaikh-7">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sameer+Shaikh;BCA+Student+%7C+1st+Year;Future+Full+Stack+Developer;Building+modern+web+experiences;Consistent+Learner+and+Coder" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SameerShaikh-7&label=PROFILE+VIEWS&color=38B2AC&style=flat-square" alt="Views" />
+</p>
 
 ---
 
 ### **🚀 About Me**
-I am a **BCA student** and a creative developer driven by the art of building seamless digital experiences. With a focus on **clean code** and **modern aesthetics**, I am currently bridging the gap between being a learner and a professional full-stack engineer.
 
-* 🌱 Currently mastering the **MERN Stack**.
-* ⚡ Passionate about **UX/UI** and high-performance web apps.
-* 📈 Focused on **consistency**—shipping code every single day.
-* 🤝 Open to collaborating on innovative Open Source projects.
+A creative developer focused on turning lines of code into high-performance, aesthetic web applications. Currently navigating the world of **BCA**, I spend my time mastering the modern web stack and refining the art of pixel-perfect design.
+
+- 🌱 Currently diving deep into the **MERN Stack**.
+- 🛠️ Building projects that combine **clean logic** with **premium UI**.
+- 📈 Driven by **growth**, **consistency**, and the thrill of solving complex problems.
+- ⚡ Fun fact: I believe a good mullet fade is as important as clean code architecture.
 
 ---
 
 ### **🛠️ Technical Arsenal**
 
-**Frontend & Styling**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
 
-**Programming & Tools**
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
 ### **💎 Featured Project**
 
 #### **☁️ SkyCast | Real-Time Weather Engine**
-*An elegant, API-driven web application delivering precision weather data.*
+*A premium weather application that turns complex meteorological data into a stunning user experience.*
 
-* **The Tech:** React.js, Tailwind CSS, OpenWeather API.
-* **The Impact:** Features a dynamic UI that changes based on local conditions, providing users with instant, worldwide atmospheric insights.
-* **Focus:** High-speed data fetching and responsive layout.
+- **Real-Time Accuracy:** Powered by OpenWeather API for instant global updates.
+- **Dynamic UI:** Interface adapts based on city-specific weather conditions.
+- **Tech Stack:** React.js, Tailwind CSS, and REST APIs.
+- **Focus:** Optimized for speed, responsiveness, and a professional glassmorphic design.
 
 ---
 
-### **📊 My GitHub Stats**
+### **📊 Development Insights**
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SameerShaikh-7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShaikh-7&layout=compact&langs_count=7&theme=radical" />
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SameerShaikh-7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SameerShaikh-7&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### **🐍 Contribution Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SameerShaikh-7&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SameerShaikh-7/SameerShaikh-7/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 ### **✨ Motivation**
-> "Code is not just instructions for machines; it is the poetry of logic that solves human problems. Build for the impact, not just the syntax."
+> "Software development isn't just about writing code; it’s about crafting solutions that don't yet exist. Stay hungry, stay consistent, and let your work speak for itself."
 
 ---
 
-### **📫 Get in Touch**
-* **GitHub:** [@SameerShaikh-7](https://github.com/SameerShaikh-7)
-* **Goal:** 2026 is the year of Full Stack Mastery.
+### **📫 Connect with me**
+<p align="left">
+<a href="https://github.com/SameerShaikh-7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SameerShaikh-7" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="sameer" height="30" width="40" /></a>
+</p>
 
----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </p>
