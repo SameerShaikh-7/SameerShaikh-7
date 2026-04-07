@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/SameerShaikh-7">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sameer+Shaikh;BCA+Student+%7C+1st+Year;Future+Full+Stack+Developer;Building+modern+web+experiences;Consistent+Learner+and+Coder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sameer+Shaikh;BCA+Student;Full+Stack+Developer;Building+modern+web+experiences;Consistent+Learner+and+Coder" alt="Typing SVG" />
   </a>
 </p>
 
